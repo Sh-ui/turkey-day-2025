@@ -1,6 +1,10 @@
 # Turkey Day 2025 - Comprehensive Timeline
 
-## Target: Eat Friday, November 28th at 2:00 PM
+## Terminology
+- **Thanksgiving Day** = Thursday, November 27th (the holiday)
+- **Turkey Day** = Friday, November 28th (when we eat the turkey)
+
+## Target: Eat Turkey Day (Friday, November 28th) at 2:00 PM
 
 ---
 
@@ -96,21 +100,28 @@
 
 ## **Thursday, November 27th - Thanksgiving Day**
 
-### Afternoon/Evening - Make Turkey Stock
+### Afternoon/Evening - Make Turkey Stock & Thanksgiving Day Meal
 
 **Stock Preparation:**
 - Use reserved turkey parts (backbone, wings, neck, giblets, carcass pieces)
+- **Before adding to stock**: Roast wings/scraps first, save crispy skin for salad topping
 - Add aromatics: onion, celery, carrot, thyme, bay leaves, peppercorns
 - Simmer 3-4 hours, strain
 - Cool stock quickly (ice bath, shallow containers)
 - Refrigerate overnight
+
+**Thanksgiving Day Dinner:**
+- While stock simmers, prepare Japanese-American fusion meal (see `thanksgiving-day-meal.md`)
+- Ladle some in-progress stock → boost with dashi → soba noodle soup
+- Edamame with fall-fusion spices
+- Salad with Japanese dressing & crispy turkey skin crumbles
 
 **Turkey Status:**
 - Continues air-drying in refrigerator uncovered
 
 ---
 
-## **Friday, November 28th - Turkey Day!**
+## **Friday, November 28th - Turkey Day! 🦃**
 
 ### 10:00 AM - Final Prep
 - Remove turkey from refrigerator 
@@ -177,4 +188,11 @@
 ---
 
 **Timeline Status**: Ready to execute. Start tonight (Sunday Nov 23) with turkey thaw and shio-koji sous-vide!
+
+---
+
+## Menu Overview
+
+- **Thanksgiving Day (Thursday)**: Japanese-American fusion meal while stock simmers → [thanksgiving-day-meal.md](thanksgiving-day-meal.md)
+- **Turkey Day (Friday)**: Full Thanksgiving feast with koji turkey → [README.md](README.md)
 
