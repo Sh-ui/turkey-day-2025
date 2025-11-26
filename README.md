@@ -6,44 +6,44 @@
 A broken-down, koji-marinated turkey roasted with a mapleâ€“clarified butter glaze.
 
 **Checklist**
-- [ ] Turkey (whole, broken into breasts + legs)
-- [ ] Shio koji
-- [ ] Maple syrup
+- [x] Turkey (whole, broken into breasts + legs)
+- [x] Shio koji (make from koji rice)
+- [x] Maple syrup *(GREENWISE ORG SYRP)*
 - [ ] Clarified butter
-- [ ] Roasting tray
-- [ ] Turkey stock (homemade, day before)
-- [ ] Aromatics for gravy (onion, celery, carrot)
-- [ ] Flour or thickener
-- [ ] Black pepper, thyme, bay
+- [x] Roasting tray
+- [x] Turkey stock (homemade from carcass, or use Organic Chkn Broth)
+- [x] Aromatics for gravy (onion, celery, carrot) *(Yellow Onions, Celery, Carrots)*
+- [x] Flour or thickener *(All Purpose Flour)*
+- [x] Black pepper, thyme, bay *(Assorted Herbs)*
 
 
 ## Dressed Roasted Brussels Sprouts
-Roasted sprouts tossed with sage sausage, fennel, onions, and mapleâ€“sage browned butter.
+Roasted sprouts tossed with sage sausage, fennel, onions, and mapleâ€"sage browned butter.
 
 **Checklist**
-- [ ] Brussels sprouts
-- [ ] Sage sausage
-- [ ] Fennel bulb
-- [ ] Onion
+- [x] Brussels sprouts *(Brussels Sprouts x2)*
+- [x] Sage sausage *(JD MAPL ROLL SAUS, JD SAUSAGE REGULAR)*
+- [x] Fennel bulb *(FENNEL)*
+- [x] Onion *(Yellow Onions)*
 - [ ] Butter
-- [ ] Maple syrup
-- [ ] Fresh sage
-- [ ] Salt + pepper
+- [x] Maple syrup *(GREENWISE ORG SYRP)*
+- [x] Fresh sage *(possibly in Assorted Herbs)*
+- [x] Salt + pepper
 
 
 ## Classic Brioche Stuffing
 A rich, soft stuffing made with brioche, turkey stock, and fine vegetables.
 
 **Checklist**
-- [ ] Brioche loaf
-- [ ] Turkey stock
-- [ ] Onion
-- [ ] Celery
-- [ ] Carrot
+- [x] Brioche loaf *(BRIOCHE SLICED LF, Maple Nut Brioche)*
+- [x] Turkey stock *(will make from carcass, or use Organic Chkn Broth)*
+- [x] Onion *(Yellow Onions)*
+- [x] Celery *(Celery)*
+- [x] Carrot *(Carrots)*
 - [ ] Butter
-- [ ] Thyme / sage
-- [ ] Eggs (binder)
-- [ ] Salt + pepper
+- [x] Thyme / sage *(Assorted Herbs)*
+- [x] Eggs (binder) *(GW EGGS LG BROWN)*
+- [x] Salt + pepper
 
 
 ## Creamy Hasselback Potatoes Au Gratin
@@ -51,11 +51,11 @@ Kenji-style hasselbacks enriched with Thanksgiving herbs and leeks.
 [Recipe Inspiration](https://www.seriouseats.com/hasselback-potato-gratin-recipe)
 
 **Checklist**
-- [ ] Yukon Gold potatoes
-- [ ] Heavy cream
+- [x] Yukon Gold potatoes *(ORGANIC POTATO GLD)*
+- [x] Heavy cream *(PUBLIX HVY WHP CRM)*
 - [ ] Leeks
-- [ ] Garlic
-- [ ] Thyme, rosemary, sage
+- [x] Garlic
+- [x] Thyme, rosemary, sage *(Assorted Herbs)*
 - [ ] Butter
 - [ ] Salt + pepper
 
@@ -65,23 +65,23 @@ ATK-style soft, tender rolls.
 [ATK Milk Bread Inspiration](https://www.americastestkitchen.com/recipes/1859-milk-bread)
 
 **Checklist**
-- [ ] Bread flour
-- [ ] Milk
-- [ ] Yeast
-- [ ] Sugar
+- [x] Bread flour *(All Purpose Flour - may need bread flour)*
+- [x] Milk
+- [x] Yeast *(Yeast)*
+- [x] Sugar *(Sugar 4 lb., Organic Sugars)*
 - [ ] Butter
 - [ ] Salt
-- [ ] Egg (for wash)
+- [x] Egg (for wash) *(GW EGGS LG BROWN)*
 
 
 ## Simple Pumpkin Pie
 Classic pumpkin custard in a flaky crust.
 
 **Checklist**
-- [ ] Pumpkin purÃ©e
-- [ ] Sugar / brown sugar
-- [ ] Eggs
-- [ ] Evaporated milk or cream
-- [ ] Cinnamon, ginger, nutmeg, clove
-- [ ] Pie crust (homemade or store-bought)
-- [ ] Whipped cream (optional)
+- [x] Pumpkin puree
+- [x] Sugar / brown sugar *(Sugar 4 lb., Organic Sugars)*
+- [x] Eggs *(GW EGGS LG BROWN)*
+- [x] Evaporated milk or cream *(CARNATION EVAP MLK)*
+- [x] Cinnamon, ginger, nutmeg, clove *(Ground Cinnamon, BADIA NUTMEG GRND, BADIA CLOVES GRND)* - **missing ginger**
+- [x] Pie crust (homemade or store-bought)
+- [x] Whipped cream (optional) *(can whip PUBLIX HVY WHP CRM)*
