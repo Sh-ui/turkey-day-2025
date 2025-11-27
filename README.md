@@ -74,6 +74,16 @@ ATK-style soft, tender rolls.
 - [x] Egg (for wash) *(GW EGGS LG BROWN)*
 
 
+## Homemade Cranberry Orange Compote
+Bright, tart cranberry compote with fresh orange zest and juice.
+
+**Checklist**
+- [x] Fresh cranberries *(Cranberries)*
+- [ ] Fresh oranges (zest and juice)
+- [x] Sugar *(Sugar 4 lb., Organic Sugars)*
+- [ ] Optional: cinnamon stick, vanilla, or a splash of Grand Marnier
+
+
 ## Simple Pumpkin Pie
 Classic pumpkin custard in a flaky crust.
 
@@ -85,3 +95,18 @@ Classic pumpkin custard in a flaky crust.
 - [x] Cinnamon, ginger, nutmeg, clove *(Ground Cinnamon, BADIA NUTMEG GRND, BADIA CLOVES GRND)* - **missing ginger**
 - [x] Pie crust (homemade or store-bought)
 - [x] Whipped cream (optional) *(can whip PUBLIX HVY WHP CRM)*
+
+
+## Eggnog Basque Cheesecake
+A rich, creamy Basque-style cheesecake infused with holiday eggnog flavors. The signature burnt top contrasts with a silky, custardy center.
+
+**Checklist**
+- [x] Cream cheese
+- [x] Eggs *(GW EGGS LG BROWN)*
+- [x] Heavy cream *(PUBLIX HVY WHP CRM)*
+- [x] Eggnog (store-bought or homemade)
+- [x] Sugar *(Sugar 4 lb., Organic Sugars)*
+- [x] Nutmeg *(BADIA NUTMEG GRND)*
+- [x] Vanilla extract
+- [x] Salt
+- [x] Parchment paper (for lining pan)

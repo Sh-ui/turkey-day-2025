@@ -62,6 +62,7 @@
 **Koji Marinade Application:**
 - Use approximately 2-3 tablespoons shio-koji per pound of meat
 - Coat turkey breasts and legs thoroughly with blended shio-koji
+- **Optional**: Reserve small amount of koji to soak carcass parts (backbone, wings) for enhanced stock
 - Vacuum seal each piece individually (one breast per bag, one leg per bag)
 - Place vacuum-sealed bags in refrigerator
 - **Duration**: Turkey will marinade for 36 hours
@@ -100,18 +101,42 @@
 
 ## **Thursday, November 27th - Thanksgiving Day**
 
-### Afternoon/Evening - Make Turkey Stock & Thanksgiving Day Meal
+### Morning/Afternoon - Baking & Stock Prep
+
+**Milk Bread Dinner Rolls (for Turkey Day):**
+- Prepare milk bread dough (flour, milk, yeast, sugar, butter, salt, egg)
+- First rise, shape into rolls
+- Second rise, egg wash
+- Bake until golden and tender
+- Cool completely, store covered for tomorrow
+- Can be reheated briefly before serving on Turkey Day
+
+**Cranberry Orange Compote:**
+- Simmer fresh cranberries with orange zest, orange juice, and sugar
+- Cook until berries burst and mixture thickens
+- Optional: add cinnamon stick or vanilla
+- Cool, refrigerate overnight for flavors to meld
 
 **Stock Preparation:**
 - Use reserved turkey parts (backbone, wings, neck, giblets, carcass pieces)
-- **Before adding to stock**: Roast wings/scraps first, save crispy skin for salad topping
+- **Note**: Carcass parts were soaked in a bit of koji for extra umami depth
+- **Before adding to stock**: Roast all parts in oven until deeply golden
+- Reserve crispy wing skin for salad topping
+- Transfer roasted bones to stock pot
 - Add aromatics: onion, celery, carrot, thyme, bay leaves, peppercorns
 - Simmer 3-4 hours, strain
 - Cool stock quickly (ice bath, shallow containers)
-- Refrigerate overnight
+- Refrigerate overnight for Turkey Day gravy
 
-**Thanksgiving Day Dinner:**
-- While stock simmers, prepare Japanese-American fusion meal (see `thanksgiving-day-meal.md`)
+**Eggnog Basque Cheesecake:**
+- Prepare batter with cream cheese, eggs, heavy cream, eggnog, sugar, nutmeg, vanilla
+- Bake at high heat for signature burnt top and creamy center
+- Cool at room temp, then refrigerate overnight
+- Serve chilled on Turkey Day
+
+### Evening - Thanksgiving Day Dinner
+
+**Japanese-American Fusion Meal (see `thanksgiving-day-meal.md`):**
 - Ladle some in-progress stock → boost with dashi → soba noodle soup
 - Edamame with fall-fusion spices
 - Salad with Japanese dressing & crispy turkey skin crumbles

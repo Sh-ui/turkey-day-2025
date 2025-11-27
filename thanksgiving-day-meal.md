@@ -1,4 +1,78 @@
-# Thanksgiving Day (Thursday, Nov 27) - Japanese-American Fall Fusion
+# Thanksgiving Day (Thursday, Nov 27)
+
+**Day Overview**: Prep work for Turkey Day + light Japanese-American fusion dinner
+
+## Prep for Tomorrow (Turkey Day)
+
+### Milk Bread Dinner Rolls
+Soft, tender ATK-style milk bread rolls baked today, served tomorrow.
+
+**Components:**
+- [x] Bread flour (or all-purpose)
+- [x] Milk
+- [x] Yeast
+- [x] Sugar
+- [ ] Butter
+- [ ] Salt
+- [x] Egg (for wash)
+
+**Timeline:**
+- Morning/early afternoon: Mix, knead, first rise
+- Shape into rolls, second rise
+- Egg wash and bake until golden
+- Cool completely, store covered
+- Reheat briefly before Turkey Day feast
+
+### Homemade Cranberry Orange Compote
+Fresh cranberry compote with bright citrus notes.
+
+**Components:**
+- [x] Fresh cranberries
+- [ ] Fresh oranges (zest and juice)
+- [x] Sugar
+- [ ] Optional: cinnamon stick, vanilla, Grand Marnier
+
+**Method:**
+1. Combine cranberries, orange zest, orange juice, and sugar in saucepan
+2. Bring to simmer, cook until cranberries burst (10-15 minutes)
+3. Add optional spices/liqueur if using
+4. Cool, refrigerate overnight for flavors to meld
+5. Serve alongside turkey on Turkey Day
+
+### Eggnog Basque Cheesecake
+Rich, creamy Basque-style cheesecake with holiday eggnog flavors.
+
+**Components:**
+- [ ] Cream cheese (room temperature)
+- [x] Eggs
+- [x] Heavy cream
+- [ ] Eggnog
+- [x] Sugar
+- [x] Nutmeg
+- [ ] Vanilla extract
+- [ ] Salt
+
+**Method:**
+1. Beat cream cheese until smooth
+2. Add sugar, then eggs one at a time
+3. Mix in heavy cream, eggnog, nutmeg, vanilla
+4. Pour into parchment-lined pan
+5. Bake at high heat (400-425°F) for signature burnt top
+6. Cool at room temp, refrigerate overnight
+7. Serve chilled on Turkey Day
+
+### Turkey Stock (Enhanced with Koji)
+**Special note**: Carcass parts were soaked in koji for extra umami depth.
+
+**Method:**
+1. Roast koji-soaked carcass parts in oven until deeply golden
+2. Reserve crispy wing skin for dinner salad
+3. Transfer bones to stock pot with aromatics
+4. Simmer 3-4 hours, strain, cool, refrigerate for tomorrow's gravy
+
+---
+
+## Thanksgiving Day Dinner - Japanese-American Fall Fusion
 
 **Concept**: Light, warming Japanese-style home cooking meets American autumn flavors while the turkey stock simmers.
 
@@ -100,23 +174,33 @@ Fresh, crisp contrast to the warm noodle bowl.
 
 **Thursday, November 27th (Thanksgiving Day)**
 
-- **Morning**: Start turkey stock (3-4 hours simmer)
-- **Early prep**: Roast turkey wing scraps, reserve crispy skin before adding bones to stock
-- **Lunch/Dinner time**: 
-  - Ladle some stock into second pot
+- **Morning/Early Afternoon**: 
+  - Make milk bread dinner rolls (bake, cool, store for tomorrow)
+  - Prepare and bake eggnog Basque cheesecake
+  - Start turkey stock: roast koji-soaked carcass parts in oven
+  - Reserve crispy wing skin before adding bones to stock pot
+  - Simmer stock 3-4 hours
+
+- **Evening - Dinner Time**: 
+  - Ladle some in-progress stock into second pot
   - Boost with dashi
   - Cook soba, prep vegetables
   - Steam edamame, toss with fusion spices
   - Dress salad, top with turkey skin
   - Serve comforting Japanese-American fusion meal
 
-**Evening**: Continue stock simmer, cool, refrigerate for Turkey Day (Friday) gravy
+- **Late Evening**: 
+  - Finish stock simmer, strain
+  - Cool quickly (ice bath), refrigerate for Turkey Day (Friday) gravy
+  - Refrigerate cheesecake overnight
 
 ---
 
 ## Notes
 
-- This meal is intentionally light and quick since you'll be prepping turkey for roasting the next day
+- **Prep Work**: Milk bread rolls and eggnog cheesecake made today for tomorrow's feast
+- **Stock Enhancement**: Koji-soaked carcass adds extra umami depth to stock
+- **Dinner**: Light Japanese-American fusion meal while stock simmers
 - Uses in-progress stock as a flavor base without depleting your gravy supply
 - Bridges the Thanksgiving → Turkey Day experience with fusion flavors
 - Leftovers can be easily reheated Friday morning if you want a pre-feast snack
