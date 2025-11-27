@@ -1,0 +1,95 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A two-day Thanksgiving guide featuring koji-marinated turkey and modern cooking techniques" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content={description}>
+  <title>{title} | Turkey Day 2025</title>
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Spectral:wght@400;600&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="/styles/global.css">
+  
+  <style>
+    /* Print-specific styles */
+    @media print {
+      body {
+        font-size: 11pt;
+        line-height: 1.5;
+      }
+      
+      h1 { font-size: 24pt; page-break-after: avoid; }
+      h2 { font-size: 18pt; page-break-after: avoid; }
+      h3 { font-size: 14pt; page-break-after: avoid; }
+      
+      .print-section {
+        page-break-inside: avoid;
+      }
+      
+      .page-break {
+        page-break-after: always;
+      }
+      
+      .no-print, .print-controls {
+        display: none !important;
+      }
+      
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+    }
+    
+    @media screen {
+      .print-controls {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 1000;
+        display: flex;
+        gap: 10px;
+      }
+      
+      .print-btn {
+        background: var(--accent-gold);
+        color: var(--text-dark);
+        border: none;
+        padding: 12px 24px;
+        font-family: 'Spectral', serif;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: background 0.3s ease;
+      }
+      
+      .print-btn:hover {
+        background: var(--accent-rust);
+      }
+    }
+  </style>
+</head>
+<body class="print-layout">
+  <div class="print-controls no-print">
+    <button onclick="window.print()" class="print-btn">Print / Save as PDF</button>
+    <a href="/" class="print-btn">Back to Site</a>
+  </div>
+
+  <main class="print-content">
+    <slot />
+  </main>
+</body>
+</html>
+

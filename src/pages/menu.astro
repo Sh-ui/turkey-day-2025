@@ -1,0 +1,171 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navigation from '../components/Navigation.astro';
+import Checklist from '../components/Checklist.astro';
+---
+
+<BaseLayout 
+  title="Complete Menu" 
+  description="Full Turkey Day 2025 menu with ingredient checklists"
+  currentPage="menu"
+>
+  <Navigation currentPage="menu" />
+
+  <h1>Turkey Day 2025 Menu</h1>
+
+  <div class="content-section">
+    <h2>Koji-Marinated Roasted Turkey</h2>
+    <p>A broken-down, koji-marinated turkey roasted with a maple-clarified butter glaze.</p>
+    <p><em>Recipe inspiration: <a href="https://www.seriouseats.com/koji-marinated-roast-turkey-recipe" target="_blank">Serious Eats Koji Turkey</a></em></p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Turkey (whole, broken into breasts + legs)', checked: true },
+        { text: 'Shio koji (make from koji rice)', checked: true },
+        { text: 'Maple syrup', checked: true, note: 'GREENWISE ORG SYRP' },
+        { text: 'Clarified butter', checked: false },
+        { text: 'Roasting tray', checked: true },
+        { text: 'Turkey stock (homemade from carcass)', checked: true },
+        { text: 'Aromatics for gravy (onion, celery, carrot)', checked: true },
+        { text: 'Flour or thickener', checked: true },
+        { text: 'Black pepper, thyme, bay', checked: true }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Dressed Roasted Brussels Sprouts</h2>
+    <p>Roasted sprouts tossed with sage sausage, fennel, onions, and maple-sage browned butter.</p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Brussels sprouts', checked: true },
+        { text: 'Sage sausage', checked: true },
+        { text: 'Fennel bulb', checked: true },
+        { text: 'Onion', checked: true },
+        { text: 'Butter', checked: false },
+        { text: 'Maple syrup', checked: true },
+        { text: 'Fresh sage', checked: true },
+        { text: 'Salt + pepper', checked: true }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Classic Brioche Stuffing</h2>
+    <p>A rich, soft stuffing made with brioche, turkey stock, and fine vegetables.</p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Brioche loaf', checked: true },
+        { text: 'Turkey stock', checked: true },
+        { text: 'Onion', checked: true },
+        { text: 'Celery', checked: true },
+        { text: 'Carrot', checked: true },
+        { text: 'Butter', checked: false },
+        { text: 'Thyme / sage', checked: true },
+        { text: 'Eggs (binder)', checked: true },
+        { text: 'Salt + pepper', checked: true }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Creamy Hasselback Potatoes Au Gratin</h2>
+    <p>Kenji-style hasselbacks enriched with Thanksgiving herbs and leeks.</p>
+    <p><em>Recipe inspiration: <a href="https://www.seriouseats.com/hasselback-potato-gratin-recipe" target="_blank">Serious Eats Hasselback Gratin</a></em></p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Yukon Gold potatoes', checked: true },
+        { text: 'Heavy cream', checked: true },
+        { text: 'Leeks', checked: false },
+        { text: 'Garlic', checked: true },
+        { text: 'Thyme, rosemary, sage', checked: true },
+        { text: 'Butter', checked: false },
+        { text: 'Salt + pepper', checked: false }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Homemade Milk Bread Dinner Rolls</h2>
+    <p>ATK-style soft, tender rolls.</p>
+    <p><em>Recipe inspiration: <a href="https://www.americastestkitchen.com/recipes/1859-milk-bread" target="_blank">ATK Milk Bread</a></em></p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Bread flour (or all-purpose)', checked: true },
+        { text: 'Milk', checked: true },
+        { text: 'Yeast', checked: true },
+        { text: 'Sugar', checked: true },
+        { text: 'Butter', checked: false },
+        { text: 'Salt', checked: false },
+        { text: 'Egg (for wash)', checked: true }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Homemade Cranberry Orange Compote</h2>
+    <p>Bright, tart cranberry compote with fresh orange zest and juice.</p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Fresh cranberries', checked: true },
+        { text: 'Fresh oranges (zest and juice)', checked: false },
+        { text: 'Sugar', checked: true },
+        { text: 'Optional: cinnamon stick, vanilla, or Grand Marnier', checked: false }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Simple Pumpkin Pie</h2>
+    <p>Classic pumpkin custard in a flaky crust.</p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Pumpkin puree', checked: true },
+        { text: 'Sugar / brown sugar', checked: true },
+        { text: 'Eggs', checked: true },
+        { text: 'Evaporated milk or cream', checked: true },
+        { text: 'Cinnamon, ginger, nutmeg, clove', checked: true, note: 'missing ginger' },
+        { text: 'Pie crust (homemade or store-bought)', checked: true },
+        { text: 'Whipped cream (optional)', checked: true }
+      ]}
+    />
+  </div>
+
+  <div class="content-section">
+    <h2>Eggnog Basque Cheesecake</h2>
+    <p>A rich, creamy Basque-style cheesecake infused with holiday eggnog flavors. The signature burnt top contrasts with a silky, custardy center.</p>
+    
+    <Checklist 
+      title="Ingredients:"
+      items={[
+        { text: 'Cream cheese', checked: true },
+        { text: 'Eggs', checked: true },
+        { text: 'Heavy cream', checked: true },
+        { text: 'Eggnog (store-bought or homemade)', checked: true },
+        { text: 'Sugar', checked: true },
+        { text: 'Nutmeg', checked: true },
+        { text: 'Vanilla extract', checked: true },
+        { text: 'Salt', checked: true },
+        { text: 'Parchment paper (for lining pan)', checked: true }
+      ]}
+    />
+  </div>
+
+  <div style="text-align: center; margin-top: 3rem;">
+    <a href="/thursday" class="btn">Next: Thursday Prep →</a>
+  </div>
+</BaseLayout>
+

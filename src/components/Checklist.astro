@@ -1,0 +1,32 @@
+---
+interface ChecklistItem {
+  text: string;
+  checked: boolean;
+  note?: string;
+}
+
+interface Props {
+  items: ChecklistItem[];
+  title?: string;
+}
+
+const { items, title } = Astro.props;
+---
+
+{title && <h4>{title}</h4>}
+<ul class="checklist">
+  {items.map(item => (
+    <li class={item.checked ? 'checked' : 'unchecked'}>
+      {item.text}
+      {item.note && <em class="note"> {item.note}</em>}
+    </li>
+  ))}
+</ul>
+
+<style>
+  .note {
+    color: var(--text-light);
+    font-size: 0.9em;
+  }
+</style>
+

@@ -1,0 +1,85 @@
+---
+interface Props {
+  currentPage?: string;
+}
+
+const { currentPage = '' } = Astro.props;
+
+const navItems = [
+  { href: '/', label: 'Home', page: 'home' },
+  { href: '/overview', label: 'Overview', page: 'overview' },
+  { href: '/timeline', label: 'Timeline', page: 'timeline' },
+  { href: '/menu', label: 'Menu', page: 'menu' },
+  { href: '/thursday', label: 'Thursday', page: 'thursday' },
+  { href: '/friday', label: 'Friday', page: 'friday' },
+  { href: '/leftovers', label: 'Leftovers', page: 'leftovers' },
+];
+---
+
+<nav class="chapter-nav">
+  <div class="chapter-nav-container">
+    {navItems.map((item, index) => (
+      <>
+        {index > 0 && <span class="nav-separator">→</span>}
+        <a 
+          href={item.href}
+          class:list={['chapter-link', { active: currentPage === item.page }]}
+        >
+          {item.label}
+        </a>
+      </>
+    ))}
+  </div>
+</nav>
+
+<style>
+  .chapter-nav {
+    background: var(--bg-white);
+    padding: var(--space-md);
+    border-radius: 8px;
+    margin-bottom: var(--space-xl);
+    border: 2px solid var(--border-light);
+  }
+  
+  .chapter-nav-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-sm);
+    justify-content: center;
+  }
+  
+  .chapter-link {
+    color: var(--text-medium);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+    font-size: 0.95rem;
+  }
+  
+  .chapter-link:hover {
+    color: var(--accent-rust);
+  }
+  
+  .chapter-link.active {
+    color: var(--accent-burgundy);
+    font-weight: 700;
+  }
+  
+  .nav-separator {
+    color: var(--accent-gold);
+    font-weight: bold;
+  }
+  
+  @media (max-width: 768px) {
+    .chapter-nav-container {
+      flex-direction: column;
+      gap: var(--space-xs);
+    }
+    
+    .nav-separator {
+      display: none;
+    }
+  }
+</style>
+

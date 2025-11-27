@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout 
+  title="Home" 
+  description="A two-day Thanksgiving guide featuring koji-marinated turkey, Japanese-American fusion, and modern cooking techniques"
+  currentPage="home"
+>
+  <div class="hero">
+    <h1>Turkey Day 2025</h1>
+    <p>A Two-Day Thanksgiving Guide</p>
+    <p style="font-size: 1rem; max-width: 600px; margin: 0 auto 2rem;">Featuring koji-marinated turkey, Japanese-American fusion dinner, and a strategic two-day approach to the ultimate feast.</p>
+    <div class="hero-cta">
+      <a href="/overview" class="btn btn-primary">Start Reading</a>
+      <a href="/print" class="btn">Download PDF</a>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <h2>What's Inside</h2>
+    <p>This guide documents a different approach to Thanksgiving—one that spreads the work across two days, uses koji fermentation for an exceptionally tender and flavorful turkey, and bridges American tradition with Japanese technique.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Quick Overview</h2>
+    <p><strong>Thursday (Thanksgiving Day)</strong>: Prep day. Make turkey stock from koji-soaked bones. Bake dinner rolls and eggnog cheesecake. Have a light Japanese-American fusion dinner (turkey broth soba, edamame, salad with crispy turkey skin) while the stock simmers.</p>
+
+    <p><strong>Friday (Turkey Day)</strong>: The feast. Roast that koji-marinated, air-dried turkey. Serve with Brussels sprouts, hasselback potatoes, stuffing, homemade cranberry compote, gravy, and yesterday's bread and dessert.</p>
+
+    <p><strong>Saturday and beyond</strong>: Leftovers pie. Layer everything into one reheatable dish—stuffing on bottom, turkey and sides in the middle with gravy, potatoes on top as the "crust."</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Why Koji?</h2>
+    <p>Shio-koji (fermented rice with salt) contains enzymes that break down proteins, making meat more tender while adding deep umami flavor. It's essentially a marinade that does biochemical work regular salt water can't.</p>
+    <p>The turkey marinates in koji for 36 hours, then air-dries for another 36 hours to get crispy skin. The result: tender, flavorful meat with a perfectly crisped exterior.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Why Two Days?</h2>
+    <p>Splitting Thanksgiving across two days removes the chaos. Stock is made and chilled. Bread is baked. Dessert is set. On Friday, you just roast the turkey and assemble sides. No scrambling, no stress—just execution.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Navigate the Guide</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1.5rem;">
+      <a href="/overview" class="card-link">
+        <strong>Overview</strong><br>
+        <small>Quick summary and philosophy</small>
+      </a>
+      <a href="/timeline" class="card-link">
+        <strong>Timeline</strong><br>
+        <small>6-day countdown schedule</small>
+      </a>
+      <a href="/menu" class="card-link">
+        <strong>Menu</strong><br>
+        <small>Complete ingredients & dishes</small>
+      </a>
+      <a href="/thursday" class="card-link">
+        <strong>Thursday</strong><br>
+        <small>Prep & fusion dinner</small>
+      </a>
+      <a href="/friday" class="card-link">
+        <strong>Friday</strong><br>
+        <small>The turkey feast</small>
+      </a>
+      <a href="/leftovers" class="card-link">
+        <strong>Leftovers</strong><br>
+        <small>Layer it all into a pie</small>
+      </a>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-top: 3rem;">
+    <a href="/overview" class="btn btn-primary" style="font-size: 1.2rem; padding: 16px 36px;">Begin the Guide →</a>
+  </div>
+</BaseLayout>
+
+<style>
+  .card-link {
+    background: var(--bg-white);
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--text-dark);
+    border: 2px solid var(--border-light);
+    transition: all 0.3s ease;
+    display: block;
+  }
+  
+  .card-link:hover {
+    border-color: var(--accent-gold);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(44, 24, 16, 0.1);
+  }
+  
+  .card-link strong {
+    color: var(--accent-burgundy);
+    font-family: var(--font-display);
+    font-size: 1.2rem;
+  }
+  
+  .card-link small {
+    color: var(--text-medium);
+  }
+</style>
+

@@ -1,0 +1,198 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Navigation from '../components/Navigation.astro';
+import TimelineItem from '../components/TimelineItem.astro';
+---
+
+<BaseLayout 
+  title="Complete Timeline" 
+  description="6-day countdown to Turkey Day with detailed schedule"
+  currentPage="timeline"
+>
+  <Navigation currentPage="timeline" />
+
+  <h1>Turkey Day 2025: Complete Timeline</h1>
+
+  <div class="content-section">
+    <h2>Terminology</h2>
+    <ul>
+      <li><strong>Thanksgiving Day</strong> = Thursday, November 27th (the holiday)</li>
+      <li><strong>Turkey Day</strong> = Friday, November 28th (when we eat the turkey)</li>
+    </ul>
+    <p><strong>Target:</strong> Eat Turkey Day (Friday, November 28th) at 2:00 PM</p>
+  </div>
+
+  <div class="timeline">
+    <TimelineItem date="Sunday, November 23rd">
+      <h4>Evening - Start Thawing Turkey</h4>
+      <ul>
+        <li>Place frozen turkey (13 lbs) in refrigerator to thaw</li>
+        <li>Location: Bottom shelf of fridge on a tray to catch drips</li>
+        <li>Note: 13 lb turkey needs ~3-4 days to thaw</li>
+      </ul>
+
+      <h4>Midnight - Start Shio-Koji Sous-Vide Acceleration</h4>
+      <ul>
+        <li>Mix shio-koji (koji rice, water, salt - Noma ratio)</li>
+        <li>Place jar in sous-vide bath set to 91°F (32°C)</li>
+        <li>Use loose lid or breathable cover</li>
+        <li>Duration: Will run for 72 hours at 91°F</li>
+      </ul>
+    </TimelineItem>
+
+    <TimelineItem date="Monday, November 24th">
+      <h4>Throughout Day</h4>
+      <ul>
+        <li>Shio-koji continues in 91°F sous-vide bath</li>
+        <li>Turkey continues thawing in fridge</li>
+        <li>Optional: Stir shio-koji once during the day</li>
+      </ul>
+    </TimelineItem>
+
+    <TimelineItem date="Tuesday, November 25th">
+      <h4>Throughout Day</h4>
+      <ul>
+        <li>Shio-koji: Final day in 91°F sous-vide bath</li>
+        <li>Turkey: Continue thawing; check if fully thawed by evening</li>
+      </ul>
+
+      <h4>Midnight - Butcher Turkey & Start Koji Marinade</h4>
+      <p><strong>Shio-Koji Prep:</strong></p>
+      <ul>
+        <li>Remove shio-koji from sous-vide bath (72 hours complete)</li>
+        <li>Blend until smooth, pancake-batter consistency</li>
+        <li>Optional: dilute slightly with water for better coverage</li>
+      </ul>
+
+      <p><strong>Turkey Butchering:</strong></p>
+      <ul>
+        <li>Confirm turkey is fully thawed</li>
+        <li>Break down: separate breasts, legs, wings, backbone</li>
+        <li>Reserve carcass, wings, neck, giblets for stock</li>
+        <li>Optional: Reserve small amount of koji to soak carcass parts</li>
+      </ul>
+
+      <p><strong>Koji Marinade Application:</strong></p>
+      <ul>
+        <li>Use approximately 2-3 tablespoons shio-koji per pound of meat</li>
+        <li>Coat turkey breasts and legs thoroughly</li>
+        <li>Vacuum seal each piece individually</li>
+        <li>Refrigerate for 36 hours</li>
+      </ul>
+    </TimelineItem>
+
+    <TimelineItem date="Wednesday, November 26th">
+      <h4>Throughout Day</h4>
+      <ul>
+        <li>Turkey continues marinating in koji (36 hours total)</li>
+        <li>Verify you have all ingredients for stock tomorrow</li>
+      </ul>
+
+      <h4>Midnight - Remove Turkey from Koji & Start Drying</h4>
+      <p><strong>Remove from Marinade:</strong></p>
+      <ul>
+        <li>Take all vacuum-sealed turkey pieces out</li>
+        <li>Open bags and remove turkey parts</li>
+        <li>Pat off excess koji paste thoroughly</li>
+        <li>Wipe/scrape surface to remove residual koji (prevents burning)</li>
+      </ul>
+
+      <p><strong>Start Drying Phase:</strong></p>
+      <ul>
+        <li>Place turkey pieces on wire rack set over sheet pan</li>
+        <li>Leave uncovered in refrigerator</li>
+        <li>Maximize air circulation around each piece</li>
+        <li>Duration: 36 hours to develop crispy skin</li>
+      </ul>
+    </TimelineItem>
+
+    <TimelineItem date="Thursday, November 27th - Thanksgiving Day">
+      <h4>Morning/Afternoon - Baking & Stock Prep</h4>
+      <p><strong>Milk Bread Dinner Rolls:</strong></p>
+      <ul>
+        <li>Prepare dough, first rise, shape into rolls</li>
+        <li>Second rise, egg wash, bake until golden</li>
+        <li>Cool completely, store covered for tomorrow</li>
+      </ul>
+
+      <p><strong>Cranberry Orange Compote:</strong></p>
+      <ul>
+        <li>Simmer cranberries with orange zest, juice, and sugar</li>
+        <li>Cook until berries burst and mixture thickens</li>
+        <li>Cool, refrigerate overnight</li>
+      </ul>
+
+      <p><strong>Eggnog Basque Cheesecake:</strong></p>
+      <ul>
+        <li>Prepare batter with cream cheese, eggs, eggnog</li>
+        <li>Bake at high heat for signature burnt top</li>
+        <li>Cool at room temp, then refrigerate overnight</li>
+      </ul>
+
+      <p><strong>Stock Preparation:</strong></p>
+      <ul>
+        <li>Roast koji-soaked carcass parts until deeply golden</li>
+        <li>Reserve crispy wing skin for salad</li>
+        <li>Transfer to stock pot with aromatics</li>
+        <li>Simmer 3-4 hours, strain, cool, refrigerate</li>
+      </ul>
+
+      <h4>Evening - Thanksgiving Day Dinner</h4>
+      <p>Japanese-American Fusion Meal:</p>
+      <ul>
+        <li>Dashi-boosted turkey broth with soba noodles</li>
+        <li>Fall-spiced edamame</li>
+        <li>Mixed greens salad with crispy turkey skin</li>
+      </ul>
+
+      <p><em>Turkey continues air-drying in refrigerator uncovered</em></p>
+    </TimelineItem>
+
+    <TimelineItem date="Friday, November 28th - Turkey Day! 🦃">
+      <h4>10:00 AM - Final Prep</h4>
+      <ul>
+        <li>Remove turkey from refrigerator</li>
+        <li>Let sit at room temperature 30-60 minutes</li>
+        <li>Prepare roasting setup</li>
+        <li>Set up combustion/predictive thermometer</li>
+      </ul>
+
+      <h4>12:00 PM (Noon) - Turkey Goes in Oven</h4>
+      <p><strong>Roasting Strategy:</strong></p>
+      <ul>
+        <li>Start with turkey legs on rack</li>
+        <li>Target: 185°F for legs (dark meat)</li>
+        <li>Add breasts based on leg timing</li>
+        <li>Target: 155°F for breasts</li>
+        <li>Both finish around same time</li>
+      </ul>
+
+      <h4>~1:30 PM - Rest & Make Gravy</h4>
+      <ul>
+        <li>Remove turkey pieces to rest</li>
+        <li>Move roasting pan to stovetop</li>
+        <li>Deglaze pan, add turkey stock from Thursday</li>
+        <li>Build gravy with hybrid thickener system</li>
+        <li>Season to taste</li>
+      </ul>
+
+      <h4>2:00 PM - EAT! 🦃</h4>
+      <p>The complete feast with all sides, desserts, and that koji turkey!</p>
+    </TimelineItem>
+  </div>
+
+  <div class="content-section">
+    <h2>Critical Timing Points</h2>
+    <ol>
+      <li><strong>Shio-koji activation</strong>: 72 hours at 91°F (Nov 23 midnight → Nov 25 midnight)</li>
+      <li><strong>Turkey in koji</strong>: 36 hours (Nov 25 midnight → Nov 26 midnight)</li>
+      <li><strong>Turkey air-drying</strong>: 36 hours (Nov 26 midnight → Nov 28 noon-ish)</li>
+      <li><strong>Turkey roasting</strong>: ~2 hours (Nov 28 noon → 2:00 PM)</li>
+    </ol>
+  </div>
+
+  <div style="text-align: center; margin-top: 3rem;">
+    <a href="/menu" class="btn">Next: Complete Menu →</a>
+  </div>
+</BaseLayout>
+
