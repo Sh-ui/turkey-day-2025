@@ -48,30 +48,37 @@ A rich, soft stuffing made with brioche, turkey stock, and fine vegetables.
 
 ## Creamy Hasselback Potatoes Au Gratin
 Kenji-style hasselbacks enriched with Thanksgiving herbs and leeks.
-[Recipe Inspiration](https://www.seriouseats.com/hasselback-potato-gratin-recipe)
+[Recipe Inspiration](https://www.seriouseats.com/hasselback-potato-gratin-casserole-holiday-food-lab)
 
 **Checklist**
-- [x] Yukon Gold potatoes *(ORGANIC POTATO GLD)*
-- [x] Heavy cream *(PUBLIX HVY WHP CRM)*
-- [ ] Leeks
-- [x] Garlic
-- [x] Thyme, rosemary, sage *(Assorted Herbs)*
-- [ ] Butter
+- [x] Russet potatoes (3 pounds) *(ORGANIC POTATO GLD - may substitute Yukon Gold)*
+- [x] Heavy cream (2 cups) *(PUBLIX HVY WHP CRM)*
+- [ ] Leeks (added to recipe)
+- [x] Garlic (4 cloves)
+- [x] Fresh thyme *(Assorted Herbs)*
+- [ ] Butter (3 tablespoons)
+- [ ] Comté cheese (3 ounces, grated)
+- [ ] Parmesan cheese (1 ounce, grated)
 - [ ] Salt + pepper
 
 
-## Homemade Milk Bread Dinner Rolls
-ATK-style soft, tender rolls.
-[ATK Milk Bread Inspiration](https://www.americastestkitchen.com/recipes/1859-milk-bread)
+## Fluffy Dinner Rolls
+ATK-style soft, tender rolls using tangzhong (flour paste) method. Makes 12 rolls.
+[ATK Fluffy Dinner Rolls](https://www.americastestkitchen.com/recipes/)
 
 **Checklist**
-- [x] Bread flour *(All Purpose Flour - may need bread flour)*
-- [x] Milk
-- [x] Yeast *(Yeast)*
-- [x] Sugar *(Sugar 4 lb., Organic Sugars)*
-- [ ] Butter
-- [ ] Salt
-- [x] Egg (for wash) *(GW EGGS LG BROWN)*
+**Flour Paste:**
+- [x] Water (1/2 cup)
+- [x] Bread flour (3 tablespoons)
+
+**Dough:**
+- [x] Bread flour (2 cups / 11 oz) *(All Purpose Flour - may need bread flour)*
+- [x] Cold milk (1/2 cup)
+- [x] Egg (1 large) *(GW EGGS LG BROWN)*
+- [x] Instant yeast (1 1/2 tsp) *(Yeast)*
+- [x] Sugar (2 tablespoons) *(Sugar 4 lb., Organic Sugars)*
+- [ ] Salt (1 teaspoon)
+- [ ] Unsalted butter (4 tbsp softened + 1/2 tbsp melted for brushing)
 
 
 ## Homemade Cranberry Orange Compote

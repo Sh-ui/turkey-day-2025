@@ -76,37 +76,47 @@ import Checklist from '../components/Checklist.astro';
   <div class="content-section">
     <h2>Creamy Hasselback Potatoes Au Gratin</h2>
     <p>Kenji-style hasselbacks enriched with Thanksgiving herbs and leeks.</p>
-    <p><em>Recipe inspiration: <a href="https://www.seriouseats.com/hasselback-potato-gratin-recipe" target="_blank">Serious Eats Hasselback Gratin</a></em></p>
+    <p><em>Recipe inspiration: <a href="https://www.seriouseats.com/hasselback-potato-gratin-casserole-holiday-food-lab" target="_blank">Serious Eats Hasselback Gratin</a></em></p>
     
     <Checklist 
       title="Ingredients:"
       items={[
-        { text: 'Yukon Gold potatoes', checked: true },
-        { text: 'Heavy cream', checked: true },
-        { text: 'Leeks', checked: false },
-        { text: 'Garlic', checked: true },
-        { text: 'Thyme, rosemary, sage', checked: true },
-        { text: 'Butter', checked: false },
+        { text: 'Russet potatoes (3 lbs)', checked: true },
+        { text: 'Heavy cream (2 cups)', checked: true },
+        { text: 'Leeks (added to recipe)', checked: false },
+        { text: 'Garlic (4 cloves)', checked: true },
+        { text: 'Fresh thyme', checked: true },
+        { text: 'Butter (3 tbsp)', checked: false },
+        { text: 'Comté cheese (3 oz, grated)', checked: false },
+        { text: 'Parmesan cheese (1 oz, grated)', checked: false },
         { text: 'Salt + pepper', checked: false }
       ]}
     />
   </div>
 
   <div class="content-section">
-    <h2>Homemade Milk Bread Dinner Rolls</h2>
-    <p>ATK-style soft, tender rolls.</p>
-    <p><em>Recipe inspiration: <a href="https://www.americastestkitchen.com/recipes/1859-milk-bread" target="_blank">ATK Milk Bread</a></em></p>
+    <h2>Fluffy Dinner Rolls</h2>
+    <p>ATK-style soft, tender rolls using tangzhong (flour paste) method. Makes 12 rolls.</p>
+    <p><em>Recipe inspiration: <a href="https://www.americastestkitchen.com/recipes/" target="_blank">ATK Fluffy Dinner Rolls</a></em></p>
     
     <Checklist 
-      title="Ingredients:"
+      title="Flour Paste:"
       items={[
-        { text: 'Bread flour (or all-purpose)', checked: true },
-        { text: 'Milk', checked: true },
-        { text: 'Yeast', checked: true },
-        { text: 'Sugar', checked: true },
-        { text: 'Butter', checked: false },
-        { text: 'Salt', checked: false },
-        { text: 'Egg (for wash)', checked: true }
+        { text: 'Water (1/2 cup)', checked: true },
+        { text: 'Bread flour (3 tbsp)', checked: true }
+      ]}
+    />
+    
+    <Checklist 
+      title="Dough:"
+      items={[
+        { text: 'Bread flour (2 cups / 11 oz)', checked: true },
+        { text: 'Cold milk (1/2 cup)', checked: true },
+        { text: 'Egg (1 large)', checked: true },
+        { text: 'Instant yeast (1 1/2 tsp)', checked: true },
+        { text: 'Sugar (2 tbsp)', checked: true },
+        { text: 'Salt (1 tsp)', checked: false },
+        { text: 'Butter (4 tbsp + 1/2 tbsp for brushing)', checked: false }
       ]}
     />
   </div>

@@ -4,24 +4,31 @@
 
 ## Prep for Tomorrow (Turkey Day)
 
-### Milk Bread Dinner Rolls
-Soft, tender ATK-style milk bread rolls baked today, served tomorrow.
+### Fluffy Dinner Rolls
+ATK-style soft, tender rolls using tangzhong (flour paste) method. Makes 12 rolls.
 
-**Components:**
-- [x] Bread flour (or all-purpose)
-- [x] Milk
-- [x] Yeast
-- [x] Sugar
-- [ ] Butter
-- [ ] Salt
-- [x] Egg (for wash)
+**Flour Paste:**
+- [x] Water (1/2 cup)
+- [x] Bread flour (3 tablespoons)
 
-**Timeline:**
-- Morning/early afternoon: Mix, knead, first rise
-- Shape into rolls, second rise
-- Egg wash and bake until golden
-- Cool completely, store covered
-- Reheat briefly before Turkey Day feast
+**Dough:**
+- [x] Bread flour (2 cups / 11 oz)
+- [x] Cold milk (1/2 cup)
+- [x] Egg (1 large)
+- [x] Instant yeast (1 1/2 tsp)
+- [x] Sugar (2 tablespoons)
+- [ ] Salt (1 teaspoon)
+- [ ] Butter (4 tbsp softened + 1/2 tbsp melted for brushing)
+
+**Timeline (3¾ hours total):**
+- Make flour paste (microwave method)
+- Mix dough, let stand 15 minutes
+- Add sugar/salt, knead 5 min; add butter, knead 5 more min
+- First rise: ~1 hour until doubled
+- Shape 12 rolls in 9-inch round pan
+- Second rise: 45 min-1 hour until doubled
+- Bake at 375°F for 25-30 minutes
+- Cool, brush with butter, store for tomorrow
 
 ### Homemade Cranberry Orange Compote
 Fresh cranberry compote with bright citrus notes.
